@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Lesson] (
+    [Id] BIGINT NOT NULL,
+    CONSTRAINT [PK_Lesson] PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
